@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Agratsant",
+        "lastName": "Saxena",
+        "email": "ags51197@gmail.com",
+        "phone": "(650)-995-2572",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Lionel",
+        "lastName": "Messi",
+        "email": "lionelmessi@gmail.com",
+        "phone": "(630)-575-3562",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Sachin",
+        "lastName": "Tendulkar",
+        "email": "srt81752@gmail.com",
+        "phone": "(897)-655-2598",
+        "editing": false
+    }
+]
